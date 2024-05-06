@@ -4,8 +4,8 @@
     "main"
   ],
   "git.branchProtectionPrompt": "alwaysCommitToNewBranch",
-  "editor.wordWrap": "on",
-    "files.eol": "\n",
+  "editor.wordWrap": "bounded",
+    "files.eol": "auto",
     "files.trimTrailingWhitespace": true,
     "files.associations": {
         "**/toc.json": "jsonc"
